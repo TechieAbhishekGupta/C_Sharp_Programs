@@ -7,3 +7,4 @@
 5. Write a program that calculates the volume of a sphere given its radius.
 6. Write a program that checks if a number is positive, negative, or zero.
 7. Write a program that calculates the factorial of a number.
+8. Write a program that checks if a year is a leap year.
