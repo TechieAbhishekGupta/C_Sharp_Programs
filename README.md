@@ -6,3 +6,4 @@
 4. Write a program that calculates the average of three numbers.
 5. Write a program that calculates the volume of a sphere given its radius.
 6. Write a program that checks if a number is positive, negative, or zero.
+7. Write a program that calculates the factorial of a number.
