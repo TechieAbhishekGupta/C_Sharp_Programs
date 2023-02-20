@@ -9,3 +9,4 @@
 7. Write a program that calculates the factorial of a number.
 8. Write a program that checks if a year is a leap year.
 9. Write a program that calculates the body mass index (BMI) given height and weight.
+10. Write a program that swaps the values of two variables.
