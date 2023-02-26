@@ -11,3 +11,4 @@
 9. Write a program that calculates the body mass index (BMI) given height and weight.
 10. Write a program that swaps the values of two variables.
 11. Write a program to reverse a given number.
+12. Write a program to generate Fibonacci Series.
